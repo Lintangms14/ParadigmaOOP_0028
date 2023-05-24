@@ -21,3 +21,8 @@ public:
 };
 
 
+int main() {
+	mahasiswa mhs(12, "Lintang", 90.5);
+
+	return 0;
+}
